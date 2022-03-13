@@ -21,11 +21,11 @@ The Society shall be named "Programmers' Society".
 
 The following terms, unless otherwise indicated to the contrary shall mean:
 
-a. Society: Programmers' Society.
+- Society: Programmers' Society.
 
-b. University, UTS: The University of Technology Sydney.
+- University, UTS: The University of Technology Sydney.
 
-c. Union: ActivateUTS (formerly known as UTS Union). 
+- Union: ActivateUTS (formerly known as UTS Union). 
 
 
 ## 3. OBJECTS
@@ -60,9 +60,7 @@ Membership shall be open to all Union members, and to all other persons satisfyi
 
 - 4.3.1 A person being one month in arrears in annual subscription shall cease to be a member.
 
-- 4.3.2 Any member whose actions either bring discredit on the Society, who has persistently refused to comply with the rules and regulations of the Society, or who has acted in a manner prejudicial to the interests of the Society may, at the discretion of the Executive Committee after an affirmative vote of sixty-six percent or more of a fully attended Executive Committee meeting be asked to appear before the Executive Committee to show cause why they should not be expelled from the Society. Should the subject member not respond to the summons, the Executive Committee may decide the matter "in absentia". Should the subject member be a member also of the Executive Committee, their place on the Executive Committee shall be taken at the direction of the President or Vice-President, by another member of the Society, not already a member of the Executive Committee, elected by the remaining members of the Executive Committee for the duration of that discussion of this rule. The Subject member shall have the right of appeal against the action of the Executive Committee. Such an appeal must be lodged with the President or the Secretary by the subject member within fourteen days of his notification of the Executive Committee's decision. The appeal will be considered at a Special General Meeting.
-
-Persons expelled from the Society under this rule will be given the option of resigning. No person who has been expelled from the Society under this rule (whether by expulsion or opted resignation) shall be re-admitted to membership except by consent of a majority of attending members at a General Meeting.
+- 4.3.2 Any member whose actions either bring discredit on the Society, who has persistently refused to comply with the rules and regulations of the Society, or who has acted in a manner prejudicial to the interests of the Society may, at the discretion of the Executive Committee after an affirmative vote of sixty-six percent or more of a fully attended Executive Committee meeting be asked to appear before the Executive Committee to show cause why they should not be expelled from the Society. Should the subject member not respond to the summons, the Executive Committee may decide the matter "in absentia". Should the subject member be a member also of the Executive Committee, their place on the Executive Committee shall be taken at the direction of the President or Vice-President, by another member of the Society, not already a member of the Executive Committee, elected by the remaining members of the Executive Committee for the duration of that discussion of this rule. The Subject member shall have the right of appeal against the action of the Executive Committee. Such an appeal must be lodged with the President or the Secretary by the subject member within fourteen days of his notification of the Executive Committee's decision. The appeal will be considered at a Special General Meeting. Persons expelled from the Society under this rule will be given the option of resigning. No person who has been expelled from the Society under this rule (whether by expulsion or opted resignation) shall be re-admitted to membership except by consent of a majority of attending members at a General Meeting.
 
 ### 4.4 Resignation of Membership
 
@@ -207,4 +205,6 @@ Dissolution of the Society shall take place only if such a decision is reached b
 
 ## 10. CONSTITUTIONAL AMBIGUITY
 
-- 10.1 In the case of doubt or conflict of opinion in interpretation of this constitution or in any circumstance not covered by this constitution, the Executive Committee's ruling shall be binding upon members.
+### 10.1 Executive Committee Ruling
+
+In the case of doubt or conflict of opinion in interpretation of this constitution or in any circumstance not covered by this constitution, the Executive Committee's ruling shall be binding upon members.
