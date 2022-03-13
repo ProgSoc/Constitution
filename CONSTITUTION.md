@@ -8,6 +8,7 @@ Effective on and from the 16th March 1989
 - Amended 23rd February 2001
 - Amended 7th April 2005
 - Amended 31st March 2011
+- Amended 28th March 2013
 
 ## 1. NAME
 
@@ -66,7 +67,7 @@ A member's resignation shall be not considered effective unless it is made in wr
 
 ### 5.1 The Executive Committee shall:
 
-- 5.1.1 Consist of President, Vice-President, Secretary, Treasurer, Computer Systems Officer, First Year Representative, Alumni Representative.
+- 5.1.1 Consist of President, Vice-President, Secretary, Treasurer, Computer Systems Officer, First Year Representative, Alumni Representative, Competitions Officer.
 
 - 5.1.2 Manage the affairs of the Society in accordance with this constitution and subject to the decisions of a General Meeting.
 
@@ -99,6 +100,8 @@ No member may be elected to any position on the Executive Committee who has not 
 - 5.5.4 Treasurer. The Treasurer shall receive all monies of the Society and deposit them in the Society's bank account, pay accounts as directed by the Executive Committee, keep such records of receipts and payments as may be directed by the Executive Committee, and present a statement of accounts to each regular meeting of the Executive Committee. They shall present the annual statement of accounts and balance sheet for the preceding financial year to the auditor each year at least two weeks before the Annual General Meeting and shall present the audited statements and balance sheet at the Annual General Meeting. Should the Treasurer be absent or ill, or neglect or refuse to do anything to be done by them under these rules, the Executive Committee may appoint any member of the Executive Committee to act in their stead.
 
 - 5.5.5 Computer Systems Officer. The Society Computer Systems Officer will co-ordinate administration of all of the computer related resources available for use by the Society.
+
+- 5.5.6 Competitions Officer: The Competitions Officer shall schedule programming competition(s) and/or other programming-related competition(s), and ensure an organising committee is formed for each such competition. The Competitions Officer will liaise with the University as required in order to conduct said competitions. The Competitions Officer shall also make efforts to be aware of external programming-related competitions, advertise the existence of those competitions to members, and act as a coordinator for forming teams to enter those competitions.
 
 ### 5.6 Security
 
