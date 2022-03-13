@@ -4,6 +4,8 @@
 
 Effective on and from the 16th March 1989
 
+- Amended 8th August 1996
+
 ## 1. NAME
 
 The Society shall be named "Programmers' Society".
@@ -18,9 +20,6 @@ b. Union: UTS Union.
 
 c. University: The University of Technology, Sydney.
 
-d. Student: A registered student of the University
-
-e. UNIX: The UNIX® Computer Operating System.
 
 ## 3. OBJECTS
 
@@ -30,7 +29,7 @@ e. UNIX: The UNIX® Computer Operating System.
 
 - 3.3 Subscribe to, become a member of, amalgamate and/or co-operate with any other organisation(s) whose objects are altogether or in part similar to those of the Society.
 
-- 3.4 To develop useful, new and non-commercial computer programs under UNIX to be exported to other UNIX installations for non-profit purposes.
+- 3.4 To develop useful, new and non-commercial computer programs to be exported to other installations for non-profit purposes.
 
 ## 4. MEMBERSHIP
 
@@ -66,13 +65,13 @@ Persons expelled from the Society under this rule will be given the option of re
 
 ### 5.1 The Executive Committee shall:
 
-- 5.1.1 Consist of President, Vice-President, Secretary, Treasurer, Public-Relations Officer and Society Computer Administrator.
+- 5.1.1 Consist of President, Vice-President, Secretary, Treasurer and Computer Systems Officer.
 
 - 5.1.2 Manage the affairs of the Society in accordance with this constitution and subject to the decisions of a General Meeting.
 
 - 5.1.3 Be elected to office for a period of one year at the Annual General Meeting.
 
-- 5.2 Any vacancy occuring on the Executive Committee shall be filled at the next Ordinary General Meeting.
+- 5.2 Any vacancy occuring on the Executive Committee shall be filled at the next Ordinary General Meeting falling 14 or more days after the vacancy occurs.
 
 - 5.3 No renumeration or other benefit in money or money's worth shall be paid to any member of the Executive Committee except for re-payment of out-of-pocket expenses.
 
@@ -90,7 +89,7 @@ Persons expelled from the Society under this rule will be given the option of re
 
 - 5.5.4 Treasurer. The Treasurer shall receive all monies of the Society and deposit them in the Society's bank account, pay accounts as directed by the Executive Committee, keep such records of receipts and payments as may be directed by the Executive Committee, and present a statement of accounts to each regular meeting of the Executive Committee. They shall present the annual statement of accounts and balance sheet for the preceding financial year to the auditor each year at least two weeks before the Annual General Meeting and shall present the audited statements and balance sheet at the Annual General Meeting. Should the Treasurer be absent or ill, or neglect or refuse to do anything to be done by them under these rules, the Executive Committee may appoint any member of the Executive Committee to act in their stead.
 
-- 5.5.5 Society Computer Administrator. The Society Computer Administrator will co-ordinate bookings and access to all the computer related resources available for use by the Society.
+- 5.5.5 Computer Systems Officer. The Society Computer Systems Officer will co-ordinate administration of all of the computer related resources available for use by the Society.
 
 ## 6. FINANCE
 
@@ -98,7 +97,7 @@ Persons expelled from the Society under this rule will be given the option of re
 
 - 6.2 The President, Vice-President, Secretary and Treasurer of the Society for the time being shall be "ex officio" Trustees of the Society and the property of the Society shall be deemed to be vested in them in trust for the members of the Society, and they shall deal with the property of the Society as directed from time to time by the Executive Committee. Any action, suit or other proceeding may be taken or brought on behalf of the Society by and in the name of the Trustees. The Trustees, or any two of them, are hereby empowered to sign, seal and otherwise execute and complete all debentures, securities, leases and other documents required to be executed, to effectuate any dealings with the Society's property or any transaction in connection with the Society's affairs which have been authorised by the Executive Committee.
 
-- 6.3 The Trustees shall open and maintain in the name and on behalf of the Society an account at the University Branch of the State Bank of New South Wales.
+- 6.3 The Trustees shall open and maintain a bank account in the name of and on behalf of the Society.
 
 - 6.4 Monies shall not be drawn except by cheque or orders signed by two trustees or by the Secretary for the time being of the Union who may act as sole signatory on all accounts.
 
@@ -114,13 +113,13 @@ Persons expelled from the Society under this rule will be given the option of re
 
 - 7.2.1 The Annual General Meeting shall be held in the month of March each year.
 
-- 7.2.2 The quorum at Annual General Meeting shall be twenty-five percent (25%) of members entitled to vote or ten (10) members entitled to vote whichever is greater.
+- 7.2.2 The quorum at Annual General Meeting shall be fifty percent (50%) of members entitled to vote or twenty (20) members entitled to vote whichever is lesser.
 
 ### 7.3 Ordinary General Meetings.
 
 - 7.3.1 Ordinary General Meetings shall be held at such times, dates and places as may be decided at the Annual General Meeting.
 
-- 7.3.2 The quorum at an Ordinary General Meeting shall be twenty percent (20%) of members entitled to vote or seven (7) members entitled to vote, whichever is greater.
+- 7.3.2 The quorum at an Ordinary General Meeting shall be thirty-three percent (33%) of members entitled to vote or fourteen (14) members entitled to vote, whichever is lesser.
 
 ### 7.4 Special General Meetings.
 
@@ -136,11 +135,6 @@ Persons expelled from the Society under this rule will be given the option of re
 
 - 7.5.2 Notice of all Special General Meetings shall be given to all financial members of the Society at least seven (7) days before the date of such meeting.
 
-### 7.6 Executive Committee Meetings.
-
-- 7.6.1 The Executive Committee shall meet as often as it may deem necessary and at least once in each semester.
-
-- 7.6.2 The quorum at an Executive Committee meeting shall be President, Secretary and two other Executive Committee members.
 
 ## 8. AMENDMENT OF CONSTITUTION.
 
@@ -156,7 +150,7 @@ Persons expelled from the Society under this rule will be given the option of re
 
 ### 9.2 Disposal of Assets
 
-- 9.2.1 Property. All computer hardware and computer software purchased by the Society, and all monetary assets and funds of the Society shall be thence forth vested in the union for disposal as deemed fit by that body.
+- 9.2.1 Property. All computer hardware and computer software purchased by the Society, and all monetary assets and funds of the Society shall be thence forth vested in an organisation to be determined at or before the time of dissolution by a resolution of the membership, whose objects are altogether or substantially similar to those of the society.
 
 - 9.2.2 Copyrights. All computer hardware and computer software (including hardware and/or software enhancements) held under copyright by the Trustees in the name of the Society shall revert in copyright ownership to the original designer/author for use by that person as they deem fit.
 
