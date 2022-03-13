@@ -7,6 +7,7 @@ Effective on and from the 16th March 1989
 - Amended 8th August 1996
 - Amended 23rd February 2001
 - Amended 7th April 2005
+- Amended 31st March 2011
 
 ## 1. NAME
 
@@ -18,16 +19,16 @@ The following terms, unless otherwise indicated to the contrary shall mean:
 
 a. Society: Programmers' Society.
 
-b. Union: UTS Union. 
+b. University, UTS: The University of Technology, Sydney.
 
-c. University: The University of Technology, Sydney.
+c. Union: UTS Union. 
 
 
 ## 3. OBJECTS
 
 - 3.1 Encourage, foster, promote, develop, extend and govern interest and expertise in Computer Programming within the University.
 
-- 3.2 Become affiliated with the Union.
+- 3.2 Remain affiliated with the Union.
 
 - 3.3 Subscribe to, become a member of, amalgamate and/or co-operate with any other organisation(s) whose objects are altogether or in part similar to those of the Society.
 
@@ -43,9 +44,9 @@ Membership shall be open to all Union members, and to all other persons satisfyi
 
 - 4.2.1 Members shall accept this constitution once adopted and agree to abide by its conditions. Membership shall become effective after payment of the appropriate subscription.
 
-- 4.2.2 Application for membership shall be made in writing, signed by the applicant; or via electronic mailing facilities, and shall contain such information as the Executive Committee may from time to time prescribe.
+- 4.2.2 Application for membership shall be made in writing, signed by the applicant; or via online facilities, and shall contain such information as the Executive Committee may from time to time prescribe.
 
-- 4.2.3 As soon as practicable after receipt of an application form membership it shall be considered by the Executive Committee who shall determine upon the admission or rejection of the applicant. The Executive Committee will be required to give reason upon rejection of an application.
+- 4.2.3 As soon as practicable after receipt of an application for membership it shall be considered by the Executive Committee who shall determine upon the admission or rejection of the applicant. The Executive Committee will be required to give reason upon rejection of an application.
 
 - 4.2.4 All members may attend all general meetings of the society. Voting rights extend to all members.
 
@@ -59,7 +60,7 @@ Persons expelled from the Society under this rule will be given the option of re
 
 ### 4.4 Resignation of Membership
 
-- 4.4.1 A member's resignation shall be not considered effective unless it is made in writing to the Secretary nor until it is accepted by the Executive Committee. No refund of subscription or part thereof shall be made to a resigning member. No person having resigned shall be permitted to rejoin the Society except by payment of a fresh subscription.
+A member's resignation shall be not considered effective unless it is made in writing to the Secretary nor until it is accepted by the Executive Committee. No refund of subscription or part thereof shall be made to a resigning member. No person having resigned shall be permitted to rejoin the Society except by payment of a fresh subscription.
 
 ## 5. OFFICERS, MANAGEMENT AND DUTIES
 
@@ -77,23 +78,23 @@ Persons expelled from the Society under this rule will be given the option of re
 
 ### 5.2 Executive Committee Vacancies 
 
-Any vacancy occuring on the Executive Committee shall be filled at the next Ordinary General Meeting falling 14 or more days after the vacancy occurs.
+Any vacancy occurring on the Executive Committee shall be filled at a Special General Meeting to be held as soon as possible after the vacancy occurs.
 
 ### 5.3 Remuneration and Benefits 
 
 No remuneration or other benefit in money or money's worth shall be paid to any member except for re-payment of out-of-pocket expenses.
 
-### 5.4 Eligibility for Election.
+### 5.4 Eligibility for Election
 
-- 5.4.1 No member may be elected to any position on the Executive Committee who has not paid their subscription for the year in which that office is to be served. No member shall be elected to any position on the Executive Committee without signifying that they are willing to accept their nomination to that position. No member may be elected to the same office for more than two consecutive terms.
+No member may be elected to any position on the Executive Committee who has not paid their subscription for the year in which that office is to be served. No member shall be elected to any position on the Executive Committee without signifying that they are willing to accept their nomination to that position. No member may be elected to the same office for more than two consecutive terms.
 
-### 5.5 Executive Committee-person's Duties.
+### 5.5 Executive Committee-person's Duties
 
 - 5.5.1 President. The President shall on behalf of the Executive Committee submit a report on the conduct of the affairs of the Society at the Annual General Meeting, and shall be chairperson and preside at all meetings at which he/she is present.
 
 - 5.5.2 Vice-President. The Vice-President shall assist the President and act as President in their absence.
 
-- 5.5.3 Secretary. The Secretary shall keep a record of all business transacted at all meetings, conduct all correspondence, carry out the directions of the Executive Committee and keep a register all members.
+- 5.5.3 Secretary. The Secretary shall keep a record of all business transacted at all meetings, conduct all correspondence, carry out the directions of the Executive Committee and keep a register of all members.
 
 - 5.5.4 Treasurer. The Treasurer shall receive all monies of the Society and deposit them in the Society's bank account, pay accounts as directed by the Executive Committee, keep such records of receipts and payments as may be directed by the Executive Committee, and present a statement of accounts to each regular meeting of the Executive Committee. They shall present the annual statement of accounts and balance sheet for the preceding financial year to the auditor each year at least two weeks before the Annual General Meeting and shall present the audited statements and balance sheet at the Annual General Meeting. Should the Treasurer be absent or ill, or neglect or refuse to do anything to be done by them under these rules, the Executive Committee may appoint any member of the Executive Committee to act in their stead.
 
@@ -129,7 +130,7 @@ The Auditor shall be appointed by the Executive Committee.
 
 The Auditor will conduct an audit of the Society's accounts and balance sheet for the financial year preceding the Annual General Meeting, and furnish a report thereon, as an addendum to the Treasurer's report to the Annual General Meeting.
 
-## 7. ANNUAL GENERAL MEETINGS
+## 7. MEETINGS
 
 ### 7.1 Appointment of Chairperson
 
@@ -141,13 +142,13 @@ In the absence of both the President and the Vice-President, the Committee membe
 
 - 7.2.2 The quorum at Annual General Meeting shall be fifty percent (50%) of members entitled to vote or twenty (20) members entitled to vote whichever is lesser.
 
-### 7.3 Ordinary General Meetings.
+### 7.3 Ordinary General Meetings
 
 - 7.3.1 Ordinary General Meetings shall be held at such times, dates and places as may be decided at the Annual General Meeting.
 
 - 7.3.2 The quorum at an Ordinary General Meeting shall be thirty-three percent (33%) of members entitled to vote or fourteen (14) members entitled to vote, whichever is lesser.
 
-### 7.4 Special General Meetings.
+### 7.4 Special General Meetings
 
 - 7.4.1 Special General Meetings shall be called within twenty-one (21) days of the receipt, by the Secretary, of an application for such a meeting in writing by any seven (7) financial members.
 
@@ -155,14 +156,14 @@ In the absence of both the President and the Vice-President, the Committee membe
 
 - 7.4.3 The quorum at a Special General Meeting shall be seven (7) members entitled to vote.
 
-### 7.5 Advertising Meetings.
+### 7.5 Advertising Meetings
 
 - 7.5.1 Notice of the Annual and Ordinary General Meetings including time, place and business to be transacted shall be displayed prominently on the union notice board at Broadway at least seven (7) days before the date of any such meeting.
 
 - 7.5.2 Notice of all Special General Meetings shall be given to all financial members of the Society at least seven (7) days before the date of such meeting.
 
 
-## 8. AMENDMENT OF CONSTITUTION.
+## 8. AMENDMENT OF CONSTITUTION
 
 ### 8.1 Amendments
 
@@ -182,12 +183,12 @@ Details of any amendment that has been duly approved by the members shall be giv
 
 Dissolution of the Society shall take place only if such a decision is reached by a Special General Meeting as described below. There shall be three weeks notice of the meeting. Normal quorum requirements will not apply. The motion for dissolution will be considered defeated unless supported by the votes of more than two-thirds of the members of the Society entitled to vote. Such votes must be placed at the meeting, proxies and absentee votes will not be permitted.
 
-### 9.2 Disposal of Assets.
+### 9.2 Disposal of Assets
 
 - 9.2.1 Property. All computer hardware and computer software purchased by the Society, and all monetary assets and funds of the Society shall be thence forth vested in an organisation to be determined at or before the time of dissolution by a resolution of the membership, whose objects are altogether or substantially similar to those of the society.
 
 - 9.2.2 Copyrights. All computer hardware and computer software (including hardware and/or software enhancements) held under copyright by the Trustees in the name of the Society shall revert in copyright ownership to the original designer/author for use by that person as they deem fit.
 
-## 10. CONSTITUTIONAL AMBIGUITY.
+## 10. CONSTITUTIONAL AMBIGUITY
 
 - 10.1 In the case of doubt or conflict of opinion in interpretation of this constitution or in any circumstance not covered by this constitution, the Executive Committee's ruling shall be binding upon members.
