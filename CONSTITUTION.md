@@ -13,9 +13,13 @@ The Society shall be named "Programmers' Society".
 The following terms, unless otherwise indicated to the contrary shall mean:
 
 a. Society: Programmers' Society.
+
 b. Union: UTS Union. 
+
 c. University: The University of Technology, Sydney.
+
 d. Student: A registered student of the University
+
 e. UNIX: The UNIX® Computer Operating System.
 
 ## 3. OBJECTS
