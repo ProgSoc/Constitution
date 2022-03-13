@@ -9,6 +9,7 @@ Effective on and from the 16th March 1989
 - Amended 7th April 2005
 - Amended 31st March 2011
 - Amended 28th March 2013
+- Amended 12th March 2015
 
 ## 1. NAME
 
@@ -49,7 +50,9 @@ Membership shall be open to all Union members, and to all other persons satisfyi
 
 - 4.2.3 As soon as practicable after receipt of an application for membership it shall be considered by the Executive Committee who shall determine upon the admission or rejection of the applicant. The Executive Committee will be required to give reason upon rejection of an application.
 
-- 4.2.4 All members may attend all general meetings of the society. Voting rights extend to all members.
+- 4.2.4 All members may attend all general meetings of the society. Voting rights extend to all current financial members.
+
+- 4.2.5 Annual subscription is dated for the calendar year. Memberships will reset on 1st February of each year, with a 1 month grace period to cover the annual subscriptions.
 
 ### 4.3 Disqualification
 
@@ -67,15 +70,23 @@ A member's resignation shall be not considered effective unless it is made in wr
 
 ### 5.1 The Executive Committee shall:
 
-- 5.1.1 Consist of President, Vice-President, Secretary, Treasurer, Computer Systems Officer, First Year Representative, Alumni Representative, Competitions Officer.
+- 5.1.1 Consist of President, Vice-President, Secretary, Treasurer, Computer Systems Officer (CSO).
 
 - 5.1.2 Manage the affairs of the Society in accordance with this constitution and subject to the decisions of a General Meeting.
 
 - 5.1.3 Be elected to office for a period of one year at the Annual General Meeting.
 
+- 5.1.3.1 The exemption from this clause is the 2015 term of office, due to the change in Annual General Meeting dates, will be the period of March 2015 to October 2015.
+
 - 5.1.4 Make up to four Key-Holder Appointments, each of which must be assigned an administrative role as determined by a vote of the Executive.
 
 - 5.1.5 Review, remove and add Key-Holder Appointments from time to to time, subject to 5.1.4.
+
+- 5.1.6 Review, remove and add Liaison Officer Appointments from time to to time, as needed at the discretion of the Executive Committee, each of which must be agreed upon by a majority of the Executive Committee vote.
+
+- 5.1.7 ​Vote on significant decisions regarding the Society and its interests, to a majority.
+
+- 5.1.7.1 In the case of a hung vote or tie, the President shall have a deciding ruling on the vote.
 
 ### 5.2 Executive Committee Vacancies 
 
@@ -91,21 +102,55 @@ No member may be elected to any position on the Executive Committee who has not 
 
 ### 5.5 Executive Committee-person's Duties
 
-- 5.5.1 President. The President shall on behalf of the Executive Committee submit a report on the conduct of the affairs of the Society at the Annual General Meeting, and shall be chairperson and preside at all meetings at which he/she is present.
+- 5.5.1 President. The President shall on behalf of the Executive Committee submit a report on the conduct of the affairs of the Society at the Annual General Meeting, and shall be chairperson and preside at all meetings at which he/she is present. The President shall give direction to the Executive Committee for the Society and its interests.
 
 - 5.5.2 Vice-President. The Vice-President shall assist the President and act as President in their absence.
 
-- 5.5.3 Secretary. The Secretary shall keep a record of all business transacted at all meetings, conduct all correspondence, carry out the directions of the Executive Committee and keep a register of all members.
+- 5.5.3 Secretary. The Secretary shall keep a record of all business transacted at all meetings, conduct all correspondence, carry out the directions of the Executive Committee and keep a register of all members. The Secretary shall act as the Vice­-President in their absence.
 
-- 5.5.4 Treasurer. The Treasurer shall receive all monies of the Society and deposit them in the Society's bank account, pay accounts as directed by the Executive Committee, keep such records of receipts and payments as may be directed by the Executive Committee, and present a statement of accounts to each regular meeting of the Executive Committee. They shall present the annual statement of accounts and balance sheet for the preceding financial year to the auditor each year at least two weeks before the Annual General Meeting and shall present the audited statements and balance sheet at the Annual General Meeting. Should the Treasurer be absent or ill, or neglect or refuse to do anything to be done by them under these rules, the Executive Committee may appoint any member of the Executive Committee to act in their stead.
+- 5.5.4 Treasurer. 
+
+5.5.4.1 ​The Treasurer shall receive all monies of the Society and deposit them in the Society's bank account, pay accounts as directed by the Executive Committee, keep such records of receipts and payments as may be directed by the Executive Committee, and present a statement of accounts to each regular meeting of the Executive Committee.
+
+5.5.4.2 ​The Treasurer shall propose a budget at beginning of calendar year to be approved by the Executive Committee for all estimated income and expenses, including but not limited to events, competitions, capital purchases, and other expenses.
+
+5.5.4.3 ​They shall present the annual statement of accounts and balance sheet for the preceding financial year to the auditor each year at least two weeks before the Annual General Meeting and shall present the audited statements and balance sheet at the Annual General Meeting.
+
+5.5.4.4 ​Should the Treasurer be absent or ill, or neglect or refuse to do anything to be done by them under these rules, the Executive Committee may appoint any member of the Executive Committee to act in their stead.
 
 - 5.5.5 Computer Systems Officer. The Society Computer Systems Officer will co-ordinate administration of all of the computer related resources available for use by the Society.
-
-- 5.5.6 Competitions Officer: The Competitions Officer shall schedule programming competition(s) and/or other programming-related competition(s), and ensure an organising committee is formed for each such competition. The Competitions Officer will liaise with the University as required in order to conduct said competitions. The Competitions Officer shall also make efforts to be aware of external programming-related competitions, advertise the existence of those competitions to members, and act as a coordinator for forming teams to enter those competitions.
 
 ### 5.6 Security
 
 All members holding keys to the Programmers' Society room and any rooms leading to same, shall make all reasonable efforts to maintain the security of those rooms.
+
+### 5.7 Liaison Officers
+
+Liaison Officers are to be appointed at the discretion of the Executive Committee and removed at the earlier of either removal by discretion of the Executive Committee, or at the end of an office period of the Executive Committee. Liaison Officers do not hold a position on the Executive Committee, and shall assist and advise the Executive Committee.
+
+- 5.7.1 ​Liaison Officer positions shall consist of: First Year Officer, Alumni Officer, Competitions Officer, Media Officer
+
+- 5.7.1.1​ First Year Officer shall promote the Society and its interests at the direction of the Executive Committee, particularly within first year students of the university. The First Year Officer shall represent the interests of the first year students of the university.
+
+- 5.7.1.2​ Alumni Officer shall promote the Society and its interests at the direction of the Executive Committee, particularly within alumni students of the university and the wider industry community. The Alumni Officer shall represent the interests of the alumni students of the university.
+
+- 5.7.1.3 ​Competitions Officer shall assist the Executive Committee in the organisation and operation of all programming ­related competitions. Competitions Officer shall also make efforts to be aware of external programming ­related competitions, advertise the existence of those competitions to members, and act as a coordinator for forming teams to enter those competitions.
+
+- 5.7.1.4 ​Media Officer shall assist the Executive Committee in the creation of promotional media for the Society and its interests, at the direction of the Executive Committee. Promotional media includes, but is not limited to, posters, banners, merchandise, logos and graphics to be used in promotion of the Society and its interests.
+
+- 5.7.2 ​Liaison Officer appointments must have a majority vote of the Executive Committee. Notification of appointments will be provided in writing to the Secretary.
+
+- 5.7.3​ Liaison Officer removals at the discretion of the Executive Committee must have a majority vote of the Executive Committee. Notification of Intent to Remove must be provided in writing to the Secretary and Liaison Officer at least five (5) days before a removal vote is cast by the Executive Committee. Notification of Removal must be provided in writing to the Liaison Officer.
+
+- 5.7.3.1​ The Liaison Officer will have the right of appeal against removal at the discretion of the Executive Committee. The appeal must be presented in writing to the Secretary or President within fourteen (14) days of notification of removal from the Executive Committee.
+
+- 5.7.4 ​Persons eligible for appointments must be financial members of the Society for the year they are appointed, and not occupying an office on the Executive Committee.
+
+- 5.7.5​ Liaison Officers are to provide advice to the Executive Committee and undertake their appointed duties.
+
+- 5.7.6 ​Liaison Officers are eligible to attend meetings of the Executive Committee at the discretion of the President.
+
+- 5.7.7​ Liaison Officers are not entitled to vote on the Executive Committee.
 
 ## 6. FINANCE
 
@@ -141,9 +186,9 @@ In the absence of both the President and the Vice-President, the Committee membe
 
 ### 7.2 Annual General Meetings
 
-- 7.2.1 The Annual General Meeting shall be held in the month of March each year.
+- 7.2.1 The Annual General Meeting shall be held in the month of October each year.
 
-- 7.2.2 The quorum at Annual General Meeting shall be fifty percent (50%) of members entitled to vote or twenty (20) members entitled to vote whichever is lesser.
+- 7.2.2 The quorum at Annual General Meeting shall be fifty percent (50%) of members entitled to vote or fourteen (14) members entitled to vote whichever is lesser.
 
 ### 7.3 Ordinary General Meetings
 
