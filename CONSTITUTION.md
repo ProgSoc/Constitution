@@ -5,6 +5,7 @@
 Effective on and from the 16th March 1989
 
 - Amended 8th August 1996
+- Amended 23rd February 2001
 
 ## 1. NAME
 
@@ -36,8 +37,6 @@ c. University: The University of Technology, Sydney.
 ### 4.1
 
 Membership shall be open to all Union members, and to all other persons satisfying the requirements of membership as may be determined by the Executive Committee from time to time.
-
-- 4.1.1 The Subscription for non-union members shall be at least twice that paid by union members.
 
 ### 4.2 Conditions of Membership
 
