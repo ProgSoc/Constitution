@@ -6,6 +6,7 @@ Effective on and from the 16th March 1989
 
 - Amended 8th August 1996
 - Amended 23rd February 2001
+- Amended 7th April 2005
 
 ## 1. NAME
 
@@ -34,7 +35,7 @@ c. University: The University of Technology, Sydney.
 
 ## 4. MEMBERSHIP
 
-### 4.1
+### 4.1 Membership
 
 Membership shall be open to all Union members, and to all other persons satisfying the requirements of membership as may be determined by the Executive Committee from time to time.
 
@@ -64,15 +65,23 @@ Persons expelled from the Society under this rule will be given the option of re
 
 ### 5.1 The Executive Committee shall:
 
-- 5.1.1 Consist of President, Vice-President, Secretary, Treasurer and Computer Systems Officer.
+- 5.1.1 Consist of President, Vice-President, Secretary, Treasurer, Computer Systems Officer, First Year Representative, Alumni Representative.
 
 - 5.1.2 Manage the affairs of the Society in accordance with this constitution and subject to the decisions of a General Meeting.
 
 - 5.1.3 Be elected to office for a period of one year at the Annual General Meeting.
 
-- 5.2 Any vacancy occuring on the Executive Committee shall be filled at the next Ordinary General Meeting falling 14 or more days after the vacancy occurs.
+- 5.1.4 Make up to four Key-Holder Appointments, each of which must be assigned an administrative role as determined by a vote of the Executive.
 
-- 5.3 No renumeration or other benefit in money or money's worth shall be paid to any member of the Executive Committee except for re-payment of out-of-pocket expenses.
+- 5.1.5 Review, remove and add Key-Holder Appointments from time to to time, subject to 5.1.4.
+
+### 5.2 Executive Committee Vacancies 
+
+Any vacancy occuring on the Executive Committee shall be filled at the next Ordinary General Meeting falling 14 or more days after the vacancy occurs.
+
+### 5.3 Remuneration and Benefits 
+
+No remuneration or other benefit in money or money's worth shall be paid to any member except for re-payment of out-of-pocket expenses.
 
 ### 5.4 Eligibility for Election.
 
@@ -90,23 +99,41 @@ Persons expelled from the Society under this rule will be given the option of re
 
 - 5.5.5 Computer Systems Officer. The Society Computer Systems Officer will co-ordinate administration of all of the computer related resources available for use by the Society.
 
+### 5.6 Security
+
+All members holding keys to the Programmers' Society room and any rooms leading to same, shall make all reasonable efforts to maintain the security of those rooms.
+
 ## 6. FINANCE
 
-- 6.1 The Financial Year shall commence on the first day of January.
+### 6.1 Financial Year
 
-- 6.2 The President, Vice-President, Secretary and Treasurer of the Society for the time being shall be "ex officio" Trustees of the Society and the property of the Society shall be deemed to be vested in them in trust for the members of the Society, and they shall deal with the property of the Society as directed from time to time by the Executive Committee. Any action, suit or other proceeding may be taken or brought on behalf of the Society by and in the name of the Trustees. The Trustees, or any two of them, are hereby empowered to sign, seal and otherwise execute and complete all debentures, securities, leases and other documents required to be executed, to effectuate any dealings with the Society's property or any transaction in connection with the Society's affairs which have been authorised by the Executive Committee.
+The Financial Year shall commence on the first day of January.
 
-- 6.3 The Trustees shall open and maintain a bank account in the name of and on behalf of the Society.
+### 6.2 Trustees
 
-- 6.4 Monies shall not be drawn except by cheque or orders signed by two trustees or by the Secretary for the time being of the Union who may act as sole signatory on all accounts.
+The President, Vice-President, Secretary and Treasurer of the Society for the time being shall be "ex officio" Trustees of the Society and the property of the Society shall be deemed to be vested in them in trust for the members of the Society, and they shall deal with the property of the Society as directed from time to time by the Executive Committee. Any action, suit or other proceeding may be taken or brought on behalf of the Society by and in the name of the Trustees. The Trustees, or any two of them, are hereby empowered to sign, seal and otherwise execute and complete all debentures, securities, leases and other documents required to be executed, to effectuate any dealings with the Society's property or any transaction in connection with the Society's affairs which have been authorised by the Executive Committee.
 
-- 6.5 The Auditor shall be appointed by the Executive Committee.
+### 6.3 Bank Account 
 
-- 6.6 The Auditor will conduct an audit of the Society's accounts and balance sheet for the financial year preceding the Annual General Meeting, and furnish a report thereon, as an addendum to the Treasurer's report to the Annual General Meeting.
+The Trustees shall open and maintain a bank account in the name of and on behalf of the Society.
+
+### 6.4 Withdrawals and Account Signatories 
+
+Monies shall not be drawn except by cheque or orders signed by two trustees or by the Secretary for the time being of the Union who may act as sole signatory on all accounts.
+
+### 6.5 Auditor 
+
+The Auditor shall be appointed by the Executive Committee.
+
+### 6.6 Annual Audit
+
+The Auditor will conduct an audit of the Society's accounts and balance sheet for the financial year preceding the Annual General Meeting, and furnish a report thereon, as an addendum to the Treasurer's report to the Annual General Meeting.
 
 ## 7. ANNUAL GENERAL MEETINGS
 
-- 7.1 In the absence of both the President and the Vice-President, the Committee members present shall appoint a chairperson for that meeting.
+### 7.1 Appointment of Chairperson
+
+In the absence of both the President and the Vice-President, the Committee members present shall appoint a chairperson for that meeting.
 
 ### 7.2 Annual General Meetings
 
@@ -137,17 +164,25 @@ Persons expelled from the Society under this rule will be given the option of re
 
 ## 8. AMENDMENT OF CONSTITUTION.
 
-- 8.1 This constitution may be repealed, altered or amended only by the affirmative vote of two-thirds of the members present at the Annual General Meeting or at a Special General Meeting convened for the purpose of amending this constitution.
+### 8.1 Amendments
 
-- 8.2 Notice of motions concerning any such amendments shall be lodged with the Secretary at least twenty-one (21) days prior to the date of such meeting and at least seven (7) days notice shall be given of such proposed amendments to every member and a copy of the notice shall be exhibited on the union notice board at Broadway for a similar period.
+This constitution may be repealed, altered or amended only by the affirmative vote of two-thirds of the members present at the Annual General Meeting or at a Special General Meeting convened for the purpose of amending this constitution.
 
-- 8.3 Details of any amendment that has been duly approved by the members shall be given to the Secretary of the Union within seven (7) days of such amendment being adopted.
+### 8.2 Amendment Notice
+
+Notice of motions concerning any such amendments shall be lodged with the Secretary at least twenty-one (21) days prior to the date of such meeting and at least seven (7) days notice shall be given of such proposed amendments to every member and a copy of the notice shall be exhibited on the union notice board at Broadway for a similar period.
+
+### 8.3 Lodging of Amendments with the Union 
+
+Details of any amendment that has been duly approved by the members shall be given to the Secretary of the Union within seven (7) days of such amendment being adopted.
 
 ## 9. DISSOLUTION
 
-- 9.1 Dissolution of the Society shall take place only if such a decision is reached by a Special General Meeting as described below. There shall be three weeks notice of the meeting. Normal quorum requirements will not apply. The motion for dissolution will be considered defeated unless supported by the votes of more than two-thirds of the members of the Society entitled to vote. Such votes must be placed at the meeting, proxies and absentee votes will not be permitted.
+### 9.1 Dissolution 
 
-### 9.2 Disposal of Assets
+Dissolution of the Society shall take place only if such a decision is reached by a Special General Meeting as described below. There shall be three weeks notice of the meeting. Normal quorum requirements will not apply. The motion for dissolution will be considered defeated unless supported by the votes of more than two-thirds of the members of the Society entitled to vote. Such votes must be placed at the meeting, proxies and absentee votes will not be permitted.
+
+### 9.2 Disposal of Assets.
 
 - 9.2.1 Property. All computer hardware and computer software purchased by the Society, and all monetary assets and funds of the Society shall be thence forth vested in an organisation to be determined at or before the time of dissolution by a resolution of the membership, whose objects are altogether or substantially similar to those of the society.
 
