@@ -11,6 +11,7 @@ Effective on and from the 16th March 1989
 - Amended 28th March 2013
 - Amended 12th March 2015
 - Amended 25th October 2018
+- Amended 29th October 2019
 
 ## 1. NAME
 
@@ -71,7 +72,7 @@ A member's resignation shall be not considered effective unless it is made in wr
 
 ### 5.1 The Executive Committee shall:
 
-- 5.1.1 Consist of President, Vice-President, Secretary, Treasurer, Computer Systems Officer (CSO).
+- 5.1.1 Consist of President, Vice-President, Secretary, Treasurer, Computer Systems Officer (CSO), Events Coordinator, Marketing Director.
 
 - 5.1.2 Manage the affairs of the Society in accordance with this constitution and subject to the decisions of a General Meeting.
 
@@ -114,6 +115,10 @@ No member may be elected to any position on the Executive Committee who has not 
 - 5.5.4.4 ​Should the Treasurer be absent or ill, or neglect or refuse to do anything to be done by them under these rules, the Executive Committee may appoint any member of the Executive Committee to act in their stead.
 
 - 5.5.5 Computer Systems Officer. The Society Computer Systems Officer will co-ordinate administration of all of the computer related resources available for use by the Society.
+
+- 5.5.6 Events Coordinator. The Events Coordinator shall coordinate the timeline and planning of Society events.
+
+- 5.5.7 Marketing Director. The Marketing Director shall manage and moderate all Society social media platforms, and shall provide and distribute Society marketing material.
 
 ### 5.6 Security
 
