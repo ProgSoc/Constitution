@@ -25,8 +25,7 @@ The following terms, unless otherwise indicated to the contrary shall mean:
 
 - University, UTS: The University of Technology Sydney.
 
-- Union: ActivateUTS (formerly known as UTS Union). 
-
+- Union: ActivateUTS (formerly known as UTS Union).
 
 ## 3. OBJECTS
 
@@ -82,11 +81,11 @@ A member's resignation shall be not considered effective unless it is made in wr
 
 - 5.1.5.1 In the case of a hung vote or tie, the President shall have a deciding ruling on the vote.
 
-### 5.2 Executive Committee Vacancies 
+### 5.2 Executive Committee Vacancies
 
 Any vacancy occurring on the Executive Committee shall be filled at a Special General Meeting to be held as soon as possible after the vacancy occurs.
 
-### 5.3 Remuneration and Benefits 
+### 5.3 Remuneration and Benefits
 
 No remuneration or other benefit in money or money's worth shall be paid to any member except for re-payment of out-of-pocket expenses.
 
@@ -102,7 +101,7 @@ No member may be elected to any position on the Executive Committee who has not 
 
 - 5.5.3 Secretary. The Secretary shall keep a record of all business transacted at all meetings, conduct all correspondence, carry out the directions of the Executive Committee and keep a register of all members.
 
-- 5.5.4 Treasurer. 
+- 5.5.4 Treasurer.
 
 - 5.5.4.1 ​The Treasurer shall receive all monies of the Society and deposit them in the Society's bank account, pay accounts as directed by the Executive Committee, keep such records of receipts and payments as may be directed by the Executive Committee, and present a statement of accounts to each regular meeting of the Executive Committee.
 
@@ -136,11 +135,11 @@ The Financial Year shall commence on the first day of January.
 
 The President, Vice-President, Secretary and Treasurer of the Society for the time being shall be "ex officio" Trustees of the Society and the property of the Society shall be deemed to be vested in them in trust for the members of the Society, and they shall deal with the property of the Society as directed from time to time by the Executive Committee. Any action, suit or other proceeding may be taken or brought on behalf of the Society by and in the name of the Trustees. The Trustees, or any two of them, are hereby empowered to sign, seal and otherwise execute and complete all debentures, securities, leases and other documents required to be executed, to effectuate any dealings with the Society's property or any transaction in connection with the Society's affairs which have been authorised by the Executive Committee.
 
-### 6.3 Bank Account 
+### 6.3 Bank Account
 
 The Trustees shall open and maintain a bank account in the name of and on behalf of the Society.
 
-### 6.4 Withdrawals and Account Signatories 
+### 6.4 Withdrawals and Account Signatories
 
 Monies shall not be drawn except by cheque or orders signed by two trustees or by the Secretary for the time being of the Union who may act as sole signatory on all accounts.
 
@@ -176,7 +175,6 @@ In the absence of both the President and the Vice-President, the Committee membe
 
 - 7.5.2 Notice of all Special General Meetings shall be given to all financial members of the Society at least seven (7) days before the date of such meeting.
 
-
 ## 8. AMENDMENT OF CONSTITUTION
 
 ### 8.1 Amendments
@@ -187,13 +185,13 @@ This constitution may be repealed, altered or amended only by the affirmative vo
 
 Notice of motions concerning any such amendments shall be lodged with the Secretary at least twenty-one (21) days prior to the date of such meeting and at least seven (7) days notice shall be given of such proposed amendments to every member.
 
-### 8.3 Lodging of Amendments with the Union 
+### 8.3 Lodging of Amendments with the Union
 
 Details of any amendment that has been duly approved by the members shall be given to the Secretary of the Union within seven (7) days of such amendment being adopted.
 
 ## 9. DISSOLUTION
 
-### 9.1 Dissolution 
+### 9.1 Dissolution
 
 Dissolution of the Society shall take place only if such a decision is reached by a Special General Meeting as described below. There shall be three weeks notice of the meeting. Normal quorum requirements will not apply. The motion for dissolution will be considered defeated unless supported by the votes of more than two-thirds of the members of the Society entitled to vote. Such votes must be placed at the meeting, proxies and absentee votes will not be permitted.
 
