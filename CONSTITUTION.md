@@ -91,7 +91,7 @@ No remuneration or other benefit in money or money's worth shall be paid to any 
 
 ### 5.4 Eligibility for Election
 
-No member may be elected to any position on the Executive Committee who has not paid their subscription for the year in which that office is to be served. No member shall be elected to any position on the Executive Committee without signifying that they are willing to accept their nomination to that position. No member may be elected to the same office for more than two consecutive terms.
+No member may be elected to any position on the Executive Committee who has not paid their subscription for the year in which that office is to be served. No member shall be elected to any position on the Executive Committee without signifying that they are willing to accept their nomination to that position.
 
 ### 5.5 Executive Committee-person's Duties
 
