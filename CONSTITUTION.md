@@ -67,7 +67,7 @@ Membership shall be open to all Union members, and to all other persons satisfyi
 
 - 4.3.5 The Subject member shall have the right of appeal against the action of the Executive Committee. Such an appeal shall be made in writing to the Secretary and must be lodged within fourteen (14) days of receiving written notification of the Committee’s decision. The lodging of an appeal will suspend the committee decision until the matter is considered by the Club Union.
 
-- 4.3.The Club Union has the power to mediate and make the final resolution. The resolution is confirmed and effective from the date of confirmation.
+- 4.3.6 The Club Union has the power to mediate and make the final resolution. The resolution is confirmed and effective from the date of confirmation.
 
 ### 4.4 Resignation of Membership
 
