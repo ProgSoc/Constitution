@@ -12,6 +12,7 @@ Effective on and from the 16th March 1989
 - Amended 12th March 2015
 - Amended 25th October 2018
 - Amended 29th October 2019
+- Amended 22nd October 2022
 
 ## 1. NAME
 
