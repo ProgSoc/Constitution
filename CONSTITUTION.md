@@ -87,7 +87,7 @@ A member's resignation shall be not considered effective unless it is made in wr
 
 - 5.1.3 Be elected to office for a period of one year at the Annual General Meeting.
 
-- 5.1.4 Review, remove and add Liaison Officer Appointments from time to time, as needed at the discretion of the Executive Committee.
+- 5.1.4 Review, remove and add General Committee Officer Appointments from time to time, as needed at the discretion of the Executive Committee.
 
 - 5.1.5 ​Vote on significant decisions regarding the Society and its interests, to a majority.
 
@@ -133,9 +133,9 @@ No member may be elected to any position on the Executive Committee who has not 
 
 All members holding access privileges to the Society room shall make all reasonable efforts to maintain the security of the room.
 
-### 5.7 Liaison Officers
+### 5.7 General Committee Officers
 
-Liaison Officers are to be appointed at the discretion of the Executive Committee and removed at the earlier of either removal by discretion of the Executive Committee, or at the end of an office period of the Executive Committee. Liaison Officers do not hold a position on the Executive Committee, and shall assist and advise the Executive Committee. ​Persons eligible for appointments must be financial members of the Society for the year they are appointed. Liaison Officer roles and positions are to be determined and revised by the Executive Committee from time to time.
+General Committee Officers are to be appointed at the discretion of the Executive Committee and removed at the earlier of either removal by discretion of the Executive Committee, or at the end of an office period of the Executive Committee. General Committee Officers do not hold a position on the Executive Committee, and shall assist and advise the Executive Committee. ​Persons eligible for appointments must be financial members of the Society for the year they are appointed. General Committee Officer roles and positions are to be determined and revised by the Executive Committee from time to time.
 
 ## 6. FINANCE
 
