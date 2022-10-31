@@ -55,13 +55,25 @@ Membership shall be open to all Union members, and to all other persons satisfyi
 
 - 4.2.5 Annual subscription is dated for the calendar year, expiring on the 31st of December of that year.
 
-### 4.3 Disqualification
+### 4.3 Expulsion
 
-- 4.3.1 A person being one month in arrears in annual subscription shall cease to be a member.
+- 4.3.1 Any member whose actions either bring discredit on the Society, who has persistently refused to comply with the rules and regulations of the Society, or who has acted in a manner prejudicial to the interests of the Society may be considered for expulsion by the executive committee.
 
-- 4.3.2 Any member whose actions either bring discredit on the Society, who has persistently refused to comply with the rules and regulations of the Society, or who has acted in a manner prejudicial to the interests of the Society may, at the discretion of the Executive Committee after an affirmative vote of sixty-six percent or more of a fully attended Executive Committee meeting be asked to appear before the Executive Committee to show cause why they should not be expelled from the Society. Should the subject member not respond to the summons, the Executive Committee may decide the matter "in absentia". Should the subject member be a member also of the Executive Committee, their place on the Executive Committee shall be taken at the direction of the President or Vice-President, by another member of the Society, not already a member of the Executive Committee, elected by the remaining members of the Executive Committee for the duration of that discussion of this rule. The Subject member shall have the right of appeal against the action of the Executive Committee. Such an appeal must be lodged with the President or the Secretary by the subject member within fourteen days of his notification of the Executive Committee's decision. The appeal will be considered at a Special General Meeting. Persons expelled from the Society under this rule will be given the option of resigning. No person who has been expelled from the Society under this rule (whether by expulsion or opted resignation) shall be re-admitted to membership except by consent of a majority of attending members at a General Meeting.
+- 4.3.2 The decision to expel a member must be conducted by a fully attended Executive Committee meeting with an affirmative vote of sixty-six percent or more.
 
-### 4.4 Resignation of Membership
+- 4.3.3 A member who is being considered for expulsion shall have the right to appear before the Executive Committee to show cause why they should not be expelled from the Society.
+
+- 4.3.4 Should the subject member be a member also of the Executive Committee, their place on the Executive Committee shall be taken at the direction of the President or Vice-President, by a General Committee member, elected by the remaining members of the Executive Committee for the duration of that discussion of this rule. Persons expelled from the Society under this rule will be given the option of resigning.
+
+- 4.3.5 The Subject member shall have the right of appeal against the action of the Executive Committee. Such an appeal shall be made in writing to the Secretary and must be lodged within fourteen (14) days of receiving written notification of the Committee’s decision. The lodging of an appeal will suspend the committee decision until the matter is considered by the Union.
+
+- 4.3.6 The Union has the power to mediate and make the final resolution. The resolution is confirmed and effective from the date of confirmation.
+
+### 4.4 Disqualification
+
+- 4.4.1 A person being one month in arrears in annual subscription shall cease to be a member.
+
+### 4.5 Resignation of Membership
 
 A member's resignation shall be not considered effective unless it is made in writing to the Secretary nor until it is accepted by the Executive Committee. No refund of subscription or part thereof shall be made to a resigning member. No person having resigned shall be permitted to rejoin the Society except by payment of a fresh subscription.
 
@@ -69,13 +81,13 @@ A member's resignation shall be not considered effective unless it is made in wr
 
 ### 5.1 The Executive Committee shall:
 
-- 5.1.1 Consist of President, Vice-President, Secretary, Treasurer, Computer Systems Officer (CSO), Events Coordinator, Marketing Director.
+- 5.1.1 Consist of a President, a Vice-President, a Secretary, a Treasurer, at least one Events Coordinator, and a Marketing Director.
 
 - 5.1.2 Manage the affairs of the Society in accordance with this constitution and subject to the decisions of a General Meeting.
 
 - 5.1.3 Be elected to office for a period of one year at the Annual General Meeting.
 
-- 5.1.4 Review, remove and add Liaison Officer Appointments from time to time, as needed at the discretion of the Executive Committee.
+- 5.1.4 Review, remove and add General Committee Officer Appointments from time to time, as needed at the discretion of the Executive Committee.
 
 - 5.1.5 ​Vote on significant decisions regarding the Society and its interests, to a majority.
 
@@ -111,19 +123,17 @@ No member may be elected to any position on the Executive Committee who has not 
 
 - 5.5.4.4 ​Should the Treasurer be absent or ill, or neglect or refuse to do anything to be done by them under these rules, the Executive Committee may appoint any member of the Executive Committee to act in their stead.
 
-- 5.5.5 Computer Systems Officer. The Society Computer Systems Officer will co-ordinate administration of all of the computer related resources available for use by the Society.
+- 5.5.5 Events Coordinators. The Events Coordinators shall coordinate the timeline and planning of Society events.
 
-- 5.5.6 Events Coordinator. The Events Coordinator shall coordinate the timeline and planning of Society events.
-
-- 5.5.7 Marketing Director. The Marketing Director shall manage and moderate all Society social media platforms, and shall provide and distribute Society marketing material.
+- 5.5.6 Marketing Director. The Marketing Director shall manage and moderate all Society social media platforms, and shall provide and distribute Society marketing material.
 
 ### 5.6 Security
 
 All members holding access privileges to the Society room shall make all reasonable efforts to maintain the security of the room.
 
-### 5.7 Liaison Officers
+### 5.7 General Committee Officers
 
-Liaison Officers are to be appointed at the discretion of the Executive Committee and removed at the earlier of either removal by discretion of the Executive Committee, or at the end of an office period of the Executive Committee. Liaison Officers do not hold a position on the Executive Committee, and shall assist and advise the Executive Committee. ​Persons eligible for appointments must be financial members of the Society for the year they are appointed. Liaison Officer roles and positions are to be determined and revised by the Executive Committee from time to time.
+General Committee Officers are to be appointed at the discretion of the Executive Committee and removed at the earlier of either removal by discretion of the Executive Committee, or at the end of an office period of the Executive Committee. General Committee Officers do not hold a position on the Executive Committee, and shall assist and advise the Executive Committee. ​Persons eligible for appointments must be financial members of the Society for the year they are appointed. General Committee Officer roles and positions are to be determined and revised by the Executive Committee from time to time.
 
 ## 6. FINANCE
 
