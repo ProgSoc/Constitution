@@ -1,6 +1,6 @@
 # Constitution
 
-### Constitution of the Programmers' Society
+***Constitution of the Programmers' Society***
 
 Effective on and from the 16th March 1989
 
@@ -92,7 +92,7 @@ A member's resignation shall be not considered effective unless it is made in wr
 
 - 5.1.5 Vote on significant decisions regarding the Society and its interests, to a majority.
 
-- 5.1.5.1 In the case of a hung vote or tie, the President shall have a deciding ruling on the vote.
+    - 5.1.5.1 In the case of a hung vote or tie, the President shall have a deciding ruling on the vote.
 
 ### 5.2 Executive Committee Vacancies
 
@@ -116,13 +116,13 @@ No member may be elected to any position on the Executive Committee who has not 
 
 - 5.5.4 Treasurer.
 
-- 5.5.4.1 The Treasurer shall receive all monies of the Society and deposit them in the Society's bank account, pay accounts as directed by the Executive Committee, keep such records of receipts and payments as may be directed by the Executive Committee, and present a statement of accounts to each regular meeting of the Executive Committee.
+    - 5.5.4.1 The Treasurer shall receive all monies of the Society and deposit them in the Society's bank account, pay accounts as directed by the Executive Committee, keep such records of receipts and payments as may be directed by the Executive Committee, and present a statement of accounts to each regular meeting of the Executive Committee.
 
-- 5.5.4.2 The Treasurer shall propose a budget at beginning of calendar year to be approved by the Executive Committee for all estimated income and expenses, including but not limited to events, competitions, capital purchases, and other expenses.
+    - 5.5.4.2 The Treasurer shall propose a budget at beginning of calendar year to be approved by the Executive Committee for all estimated income and expenses, including but not limited to events, competitions, capital purchases, and other expenses.
 
-- 5.5.4.3 They shall present the annual statement of accounts and balance sheet for the preceding financial year at the Annual General Meeting.
+    - 5.5.4.3 They shall present the annual statement of accounts and balance sheet for the preceding financial year at the Annual General Meeting.
 
-- 5.5.4.4 Should the Treasurer be absent or ill, or neglect or refuse to do anything to be done by them under these rules, the Executive Committee may appoint any member of the Executive Committee to act in their stead.
+    - 5.5.4.4 Should the Treasurer be absent or ill, or neglect or refuse to do anything to be done by them under these rules, the Executive Committee may appoint any member of the Executive Committee to act in their stead.
 
 - 5.5.5 Events Coordinators. The Events Coordinators shall coordinate the timeline and planning of Society events.
 
