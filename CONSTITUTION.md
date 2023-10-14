@@ -66,7 +66,7 @@ Membership shall be open to all Union members, and to all other persons satisfyi
 
 - 4.3.4 Should the subject member be a member also of the Executive Committee, their place on the Executive Committee shall be taken at the direction of the President or Vice-President, by a General Committee member, elected by the remaining members of the Executive Committee for the duration of that discussion of this rule. Persons expelled from the Society under this rule will be given the option of resigning.
 
-- 4.3.5 The Subject member shall have the right of appeal against the action of the Executive Committee. Such an appeal shall be made in writing to the Secretary and must be lodged within fourteen (14) days of receiving written notification of the Committee’s decision. The lodging of an appeal will suspend the committee decision until the matter is considered by the Union.
+- 4.3.5 The Subject member shall have the right of appeal against the action of the Executive Committee. Such an appeal shall be made in writing to the Secretary and must be lodged within fourteen (14) days of receiving written notification of the Committee's decision. The lodging of an appeal will suspend the committee decision until the matter is considered by the Union.
 
 - 4.3.6 The Union has the power to mediate and make the final resolution. The resolution is confirmed and effective from the date of confirmation.
 
@@ -90,7 +90,7 @@ A member's resignation shall be not considered effective unless it is made in wr
 
 - 5.1.4 Review, remove and add General Committee Officer Appointments from time to time, as needed at the discretion of the Executive Committee.
 
-- 5.1.5 ​Vote on significant decisions regarding the Society and its interests, to a majority.
+- 5.1.5 Vote on significant decisions regarding the Society and its interests, to a majority.
 
 - 5.1.5.1 In the case of a hung vote or tie, the President shall have a deciding ruling on the vote.
 
@@ -116,13 +116,13 @@ No member may be elected to any position on the Executive Committee who has not 
 
 - 5.5.4 Treasurer.
 
-- 5.5.4.1 ​The Treasurer shall receive all monies of the Society and deposit them in the Society's bank account, pay accounts as directed by the Executive Committee, keep such records of receipts and payments as may be directed by the Executive Committee, and present a statement of accounts to each regular meeting of the Executive Committee.
+- 5.5.4.1 The Treasurer shall receive all monies of the Society and deposit them in the Society's bank account, pay accounts as directed by the Executive Committee, keep such records of receipts and payments as may be directed by the Executive Committee, and present a statement of accounts to each regular meeting of the Executive Committee.
 
-- 5.5.4.2 ​The Treasurer shall propose a budget at beginning of calendar year to be approved by the Executive Committee for all estimated income and expenses, including but not limited to events, competitions, capital purchases, and other expenses.
+- 5.5.4.2 The Treasurer shall propose a budget at beginning of calendar year to be approved by the Executive Committee for all estimated income and expenses, including but not limited to events, competitions, capital purchases, and other expenses.
 
-- 5.5.4.3 ​They shall present the annual statement of accounts and balance sheet for the preceding financial year at the Annual General Meeting.
+- 5.5.4.3 They shall present the annual statement of accounts and balance sheet for the preceding financial year at the Annual General Meeting.
 
-- 5.5.4.4 ​Should the Treasurer be absent or ill, or neglect or refuse to do anything to be done by them under these rules, the Executive Committee may appoint any member of the Executive Committee to act in their stead.
+- 5.5.4.4 Should the Treasurer be absent or ill, or neglect or refuse to do anything to be done by them under these rules, the Executive Committee may appoint any member of the Executive Committee to act in their stead.
 
 - 5.5.5 Events Coordinators. The Events Coordinators shall coordinate the timeline and planning of Society events.
 
@@ -134,7 +134,7 @@ All members holding access privileges to the Society room shall make all reasona
 
 ### 5.7 General Committee Officers
 
-General Committee Officers are to be appointed at the discretion of the Executive Committee and removed at the earlier of either removal by discretion of the Executive Committee, or at the end of an office period of the Executive Committee. General Committee Officers do not hold a position on the Executive Committee, and shall assist and advise the Executive Committee. ​Persons eligible for appointments must be financial members of the Society for the year they are appointed. General Committee Officer roles and positions are to be determined and revised by the Executive Committee from time to time.
+General Committee Officers are to be appointed at the discretion of the Executive Committee and removed at the earlier of either removal by discretion of the Executive Committee, or at the end of an office period of the Executive Committee. General Committee Officers do not hold a position on the Executive Committee, and shall assist and advise the Executive Committee. Persons eligible for appointments must be financial members of the Society for the year they are appointed. General Committee Officer roles and positions are to be determined and revised by the Executive Committee from time to time.
 
 ## 6. FINANCE
 
