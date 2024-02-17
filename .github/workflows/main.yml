@@ -1,0 +1,19 @@
+name: Update Ghost Page
+on:
+  push:
+    branches:
+      - main
+jobs:
+  put-html:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install @octokit/action@6.0.7
+      - run: npm install @tryghost/admin-api@1.13.11
+      - run: node .github/actions/publish.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GHOST_ADMIN_API_KEY: ${{ secrets.GHOST_ADMIN_API_KEY }}
