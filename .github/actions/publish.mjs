@@ -16,7 +16,7 @@ const { data } = await octokit.request("POST /markdown", {
 
 const html = data
   .replace(/<h1.*?<\/h1>/g, "")
-  .replace(/>(\d(?:\.\d)*)\.?/g, "><b>$1.</b>");
+  .replace(/>(\d+(?:\.\d+)*)\.?/g, "><b>$1.</b>");
 
 const { updated_at } = await ghost.pages.read({ id: "65d0046b07a6e4000144c4d2" });
 
