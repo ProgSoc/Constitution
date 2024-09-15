@@ -13,6 +13,7 @@ Effective on and from the 16th March 1989
 - Amended 25th October 2018
 - Amended 29th October 2019
 - Amended 22nd October 2022
+- Amended 12th October 2024
 
 ## 1. NAME
 
@@ -162,7 +163,7 @@ In the absence of both the President and the Vice-President, the Committee membe
 
 ### 7.2. Annual General Meetings
 
-- 7.2.1. The Annual General Meeting shall be held in the month of October each year.
+- 7.2.1. The Annual General Meeting shall be held in either September or October of each year.
 
 - 7.2.2. The quorum at Annual General Meeting shall be fifty percent (50%) of members entitled to vote or fourteen (14) members entitled to vote whichever is lesser.
 
