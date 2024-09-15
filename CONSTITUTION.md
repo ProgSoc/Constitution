@@ -13,6 +13,7 @@ Effective on and from the 16th March 1989
 - Amended 25th October 2018
 - Amended 29th October 2019
 - Amended 22nd October 2022
+- Amended 12th October 2024
 
 ## 1. NAME
 
@@ -214,6 +215,10 @@ Dissolution of the Society shall take place only if such a decision is reached b
 
 ## 10. CONSTITUTIONAL AMBIGUITY
 
-### 10.1. Executive Committee Ruling
+### 10.1. ActivateUTS Club Affiliation Agreement
+
+In order to fulfil the object of remaining affiliated with ActivateUTS, the ActivateUTS Club Affiliation Agreement shall supersede any inconsistencies with this constitution to the extent of the inconsistency.
+
+### 10.2. Executive Committee Ruling
 
 In the case of doubt or conflict of opinion in interpretation of this constitution or in any circumstance not covered by this constitution, the Executive Committee's ruling shall be binding upon members.
