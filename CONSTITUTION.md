@@ -13,6 +13,7 @@ Effective on and from the 16th March 1989
 - Amended 25th October 2018
 - Amended 29th October 2019
 - Amended 22nd October 2022
+- Amended 12th October 2024
 
 ## 1. NAME
 
@@ -135,6 +136,10 @@ All members holding access privileges to the Society room shall make all reasona
 ### 5.7. General Committee Officers
 
 General Committee Officers are to be appointed at the discretion of the Executive Committee and removed at the earlier of either removal by discretion of the Executive Committee, or at the end of an office period of the Executive Committee. General Committee Officers do not hold a position on the Executive Committee, and shall assist and advise the Executive Committee. Persons eligible for appointments must be financial members of the Society for the year they are appointed. General Committee Officer roles and positions are to be determined and revised by the Executive Committee from time to time.
+
+### 5.8. Alumni Advisory Board
+
+Alumni Advisors are appointed upon the conclusion of their term on the Executive Committee or at the discretion of the Executive Committee, and hold a perpetual term until they choose to resign or are removed by the Executive Committee. Alumni Advisors do not hold a position on the Executive Committee, and shall serve a purely advisory role wherein, from time to time, they may provide considered guidance with no obligation on the Executive Committee. Persons considered for appointment must have held a role on the Executive Committee previously, or be recognised as a notable or otherwise distinguished member of the community.
 
 ## 6. FINANCE
 
