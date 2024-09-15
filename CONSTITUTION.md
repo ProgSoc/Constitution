@@ -13,6 +13,7 @@ Effective on and from the 16th March 1989
 - Amended 25th October 2018
 - Amended 29th October 2019
 - Amended 22nd October 2022
+- Amended 12th October 2024
 
 ## 1. NAME
 
@@ -130,7 +131,7 @@ No member may be elected to any position on the Executive Committee who has not 
 
 ### 5.6. Security
 
-All members holding access privileges to the Society room shall make all reasonable efforts to maintain the security of the room.
+All members holding access privileges to Society spaces (physically, such as the room; or digitally, such as the website, mailing list or chat server) shall make all reasonable efforts to maintain the security of these spaces.
 
 ### 5.7. General Committee Officers
 
