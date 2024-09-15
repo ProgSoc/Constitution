@@ -13,6 +13,7 @@ Effective on and from the 16th March 1989
 - Amended 25th October 2018
 - Amended 29th October 2019
 - Amended 22nd October 2022
+- Amended 12th October 2024
 
 ## 1. NAME
 
@@ -152,7 +153,7 @@ The Trustees shall open and maintain a bank account in the name of and on behalf
 
 ### 6.4. Withdrawals and Account Signatories
 
-Monies shall not be drawn except by cheque or orders signed by two trustees or by the Secretary for the time being of the Union who may act as sole signatory on all accounts.
+Monies shall not be drawn except by cheque or orders signed by two trustees, or by one trustee and the ActivateUTS Clubs Manager for the time being who will have been given a written explanation, or by the ActivateUTS CEO for the time being who may act as sole signatory on all accounts.
 
 ## 7. MEETINGS
 
