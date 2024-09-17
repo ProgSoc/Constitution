@@ -131,7 +131,7 @@ No member may be elected to any position on the Executive Committee who has not 
 
 ### 5.6. Security
 
-All members holding access privileges to Society spaces (physically, such as the room; or digitally, such as the website, mailing list or chat server) shall make all reasonable efforts to maintain the security of these spaces.
+All members holding access privileges to physical and digital Society spaces (including, but not limited to: the room, website, mailing list, or chat server) shall make all reasonable efforts to maintain the security of such spaces.
 
 ### 5.7. General Committee Officers
 
