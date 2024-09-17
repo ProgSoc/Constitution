@@ -139,7 +139,7 @@ General Committee Officers are to be appointed at the discretion of the Executiv
 
 ### 5.8. Alumni Advisory Board
 
-Alumni Advisors are appointed upon the conclusion of their term on the Executive Committee or at the discretion of the Executive Committee. Alumni Advisors hold an indefinite term, to be reviewed annually at the commencement of an office period of the Executive Committee, until they choose to resign or are removed by the Executive Committee. Alumni Advisors do not hold a position on the Executive Committee, and shall serve a purely advisory role wherein, from time to time, they may provide considered guidance with no obligation on the Executive Committee. Persons considered for appointment must have held a role on the Executive Committee previously, or be recognised as a notable or otherwise distinguished member of the ProgSoc community.
+Alumni Advisors are appointed upon the conclusion of their term on the Executive Committee or at the discretion of the Executive Committee. Alumni Advisors hold an indefinite term, to be reviewed annually at the commencement of an office period of the Executive Committee, until they choose to resign or are removed by the Executive Committee. Alumni Advisors do not hold a position on the Executive Committee, and shall serve a purely advisory role wherein, from time to time, they may provide considered guidance with no obligation on the Executive Committee. Persons considered for appointment must have held a role on the Executive Committee previously, or be recognised as a notable or otherwise distinguished member of the Society.
 
 ## 6. FINANCE
 
