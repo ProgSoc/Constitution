@@ -221,4 +221,4 @@ In order to fulfil the object of remaining affiliated with ActivateUTS, the Acti
 
 ### 10.2. Executive Committee Ruling
 
-In the case of doubt or conflict of opinion in interpretation of this constitution or in any circumstance not covered by this constitution, the Executive Committee's ruling shall be binding upon members.
+In the case of doubt or conflict of opinion in interpretation of this constitution, or in any circumstance not covered by this constitution or the ActivateUTS Club Affiliation Agreement, the Executive Committee's ruling shall be binding upon members.
