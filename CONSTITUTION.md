@@ -155,11 +155,7 @@ The Trustees shall open and maintain a bank account in the name of and on behalf
 
 - 6.4.1. Monies shall not be drawn except by cheque or orders signed by two trustees involving at least either the President or Treasurer.
 
-- 6.4.2. In the event both the President and Treasurer are absent or ill or otherwise unable to act as signatories, or neglect or refuse to operate the account in order to satisfy a debt, the Executive Committee may resolve by a vote:
-
-    - 6.4.2.1. To write to the ActivateUTS Clubs Manager explaining the circumstances of, and reasons for, a transaction;
-
-    - 6.4.2.2. And that one trustee and the ActivateUTS Clubs Manager for the time being are together authorised as signatories on such transaction.
+- 6.4.2. In the event both the President and Treasurer are absent or ill or otherwise unable to act as signatories on a transaction, or neglect or refuse to operate the account in order to satisfy an outstanding debt, the remaining Executive Committee may resolve to petition the ActivateUTS Clubs Manager for the time being to act as an authorised signatory, along with one trustee, to complete the transaction.
 
 - 6.4.3. In extraordinary circumstances, the ActivateUTS CEO for the time being may act as sole signatory on all accounts.
 
