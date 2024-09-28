@@ -56,19 +56,9 @@ Membership shall be open to all Union members, and to all other persons satisfyi
 
 - 4.2.5. Annual subscription is dated for the calendar year, expiring on the 31st of December of that year.
 
-### 4.3. Expulsion
+### 4.3. Disciplinary Action
 
-- 4.3.1. Any member whose actions either bring discredit on the Society, who has persistently refused to comply with the rules and regulations of the Society, or who has acted in a manner prejudicial to the interests of the Society may be considered for expulsion by the executive committee.
-
-- 4.3.2. The decision to expel a member must be conducted by a fully attended Executive Committee meeting with an affirmative vote of sixty-six percent or more.
-
-- 4.3.3. A member who is being considered for expulsion shall have the right to appear before the Executive Committee to show cause why they should not be expelled from the Society.
-
-- 4.3.4. Should the subject member be a member also of the Executive Committee, their place on the Executive Committee shall be taken at the direction of the President or Vice-President, by a General Committee member, elected by the remaining members of the Executive Committee for the duration of that discussion of this rule. Persons expelled from the Society under this rule will be given the option of resigning.
-
-- 4.3.5. The Subject member shall have the right of appeal against the action of the Executive Committee. Such an appeal shall be made in writing to the Secretary and must be lodged within fourteen (14) days of receiving written notification of the Committee's decision. The lodging of an appeal will suspend the committee decision until the matter is considered by the Union.
-
-- 4.3.6. The Union has the power to mediate and make the final resolution. The resolution is confirmed and effective from the date of confirmation.
+The disciplining of club executives, members, and relevant UTS personnel will be investigated, handled, and processed by ActivateUTS in line with the ActivateUTS Clubs Code of Conduct.
 
 ### 4.4. Disqualification
 
