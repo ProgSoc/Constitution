@@ -13,6 +13,7 @@ Effective on and from the 16th March 1989
 - Amended 25th October 2018
 - Amended 29th October 2019
 - Amended 22nd October 2022
+- Amended 12th October 2024
 
 ## 1. NAME
 
@@ -26,13 +27,13 @@ The following terms, unless otherwise indicated to the contrary shall mean:
 
 - University, UTS: The University of Technology Sydney.
 
-- Union: ActivateUTS (formerly known as UTS Union).
+- ActivateUTS: The UTS clubs body (formerly known as UTS Union).
 
 ## 3. OBJECTS
 
 - 3.1. Encourage, foster, promote, develop, extend and govern interest and expertise in Computer Programming within the University.
 
-- 3.2. Remain affiliated with the Union.
+- 3.2. Remain affiliated with ActivateUTS.
 
 - 3.3. Subscribe to, become a member of, amalgamate and/or co-operate with any other organisation(s) whose objects are altogether or in part similar to those of the Society.
 
@@ -42,7 +43,7 @@ The following terms, unless otherwise indicated to the contrary shall mean:
 
 ### 4.1. Membership
 
-Membership shall be open to all Union members, and to all other persons satisfying the requirements of membership as may be determined by the Executive Committee from time to time.
+Membership shall be open to all UTS students, staff, and alumni; and to all other persons satisfying the requirements of membership as may be determined by the Executive Committee from time to time.
 
 ### 4.2. Conditions of Membership
 
@@ -120,7 +121,7 @@ No member may be elected to any position on the Executive Committee who has not 
 
 ### 5.6. Security
 
-All members holding access privileges to the Society room shall make all reasonable efforts to maintain the security of the room.
+All members holding access privileges to physical and digital Society spaces (including, but not limited to: the room, website, mailing list, or chat server) shall make all reasonable efforts to maintain the security of such spaces.
 
 ### 5.7. General Committee Officers
 
@@ -138,11 +139,15 @@ The President, Vice-President, Secretary and Treasurer of the Society for the ti
 
 ### 6.3. Bank Account
 
-The Trustees shall open and maintain a bank account in the name of and on behalf of the Society.
+The Trustees shall maintain a bank account in the name of and on behalf of the Society.
 
 ### 6.4. Withdrawals and Account Signatories
 
-Monies shall not be drawn except by cheque or orders signed by two trustees or by the Secretary for the time being of the Union who may act as sole signatory on all accounts.
+- 6.4.1. Monies shall not be drawn except by cheque or orders signed by two trustees involving at least either the President or Treasurer.
+
+- 6.4.2. In the event both the President and Treasurer are absent or ill or otherwise unable to act as signatories on a transaction, or neglect or refuse to operate the account in order to satisfy an outstanding debt, the remaining Executive Committee may resolve to petition the ActivateUTS Clubs Manager for the time being to act as an authorised signatory, along with one trustee, to complete the transaction.
+
+- 6.4.3. The ActivateUTS CEO for the time being may act as sole signatory on all accounts.
 
 ## 7. MEETINGS
 
@@ -152,7 +157,7 @@ In the absence of both the President and the Vice-President, the Committee membe
 
 ### 7.2. Annual General Meetings
 
-- 7.2.1. The Annual General Meeting shall be held in the month of October each year.
+- 7.2.1. The Annual General Meeting shall be held in either September or October of each year.
 
 - 7.2.2. The quorum at Annual General Meeting shall be fifty percent (50%) of members entitled to vote or fourteen (14) members entitled to vote whichever is lesser.
 
@@ -172,9 +177,9 @@ In the absence of both the President and the Vice-President, the Committee membe
 
 ### 7.5. Advertising Meetings
 
-- 7.5.1. Notice of the Annual and Ordinary General Meetings including time, place and business to be transacted shall be given to all financial members of the Society at least seven (7) days before the date of any such meeting.
+- 7.5.1. Notice of the Annual and Ordinary General Meetings including time and place shall be given to all financial members of the Society at least fourteen (14) days before the date of any such meeting, with notice of business to be transacted given at least seven (7) days ahead of the meeting.
 
-- 7.5.2. Notice of all Special General Meetings shall be given to all financial members of the Society at least seven (7) days before the date of such meeting.
+- 7.5.2. Notice of all Special General Meetings shall be given to all financial members of the Society at least fourteen (14) days before the date of such meeting.
 
 ## 8. AMENDMENT OF CONSTITUTION
 
@@ -186,9 +191,9 @@ This constitution may be repealed, altered or amended only by the affirmative vo
 
 Notice of motions concerning any such amendments shall be lodged with the Secretary at least twenty-one (21) days prior to the date of such meeting and at least seven (7) days notice shall be given of such proposed amendments to every member.
 
-### 8.3. Lodging of Amendments with the Union
+### 8.3. Lodging of Amendments with ActivateUTS
 
-Details of any amendment that has been duly approved by the members shall be given to the Secretary of the Union within seven (7) days of such amendment being adopted.
+Details of any amendment that has been duly approved by the members shall be submitted as appropriate to ActivateUTS within seven (7) days of such amendment being adopted.
 
 ## 9. DISSOLUTION
 
@@ -204,6 +209,10 @@ Dissolution of the Society shall take place only if such a decision is reached b
 
 ## 10. CONSTITUTIONAL AMBIGUITY
 
-### 10.1. Executive Committee Ruling
+### 10.1. ActivateUTS Club Affiliation Agreement
 
-In the case of doubt or conflict of opinion in interpretation of this constitution or in any circumstance not covered by this constitution, the Executive Committee's ruling shall be binding upon members.
+In order to fulfil the object of remaining affiliated with ActivateUTS, the ActivateUTS Club Affiliation Agreement shall supersede any inconsistencies with this constitution to the extent of the inconsistency.
+
+### 10.2. Executive Committee Ruling
+
+In the case of doubt or conflict of opinion in interpretation of this constitution, or in any circumstance not covered by this constitution or the ActivateUTS Club Affiliation Agreement, the Executive Committee's ruling shall be binding upon members.
