@@ -163,7 +163,7 @@ In the absence of both the President and the Vice-President, the Committee membe
 
 ### 7.2. Annual General Meetings
 
-- 7.2.1. The Annual General Meeting shall be held in the month of October each year.
+- 7.2.1. The Annual General Meeting shall be held in either September or October of each year.
 
 - 7.2.2. The quorum at Annual General Meeting shall be fifty percent (50%) of members entitled to vote or fourteen (14) members entitled to vote whichever is lesser.
 
