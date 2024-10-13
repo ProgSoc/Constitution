@@ -187,9 +187,9 @@ In the absence of both the President and the Vice-President, the Committee membe
 
 ### 7.5. Advertising Meetings
 
-- 7.5.1. Notice of the Annual and Ordinary General Meetings including time, place and business to be transacted shall be given to all financial members of the Society at least seven (7) days before the date of any such meeting.
+- 7.5.1. Notice of the Annual and Ordinary General Meetings including time and place shall be given to all financial members of the Society at least fourteen (14) days before the date of any such meeting, with notice of business to be transacted given at least seven (7) days ahead of the meeting.
 
-- 7.5.2. Notice of all Special General Meetings shall be given to all financial members of the Society at least seven (7) days before the date of such meeting.
+- 7.5.2. Notice of all Special General Meetings shall be given to all financial members of the Society at least fourteen (14) days before the date of such meeting.
 
 ## 8. AMENDMENT OF CONSTITUTION
 
