@@ -27,13 +27,13 @@ The following terms, unless otherwise indicated to the contrary shall mean:
 
 - University, UTS: The University of Technology Sydney.
 
-- Union: ActivateUTS (formerly known as UTS Union).
+- ActivateUTS: The UTS clubs body (formerly known as UTS Union).
 
 ## 3. OBJECTS
 
 - 3.1. Encourage, foster, promote, develop, extend and govern interest and expertise in Computer Programming within the University.
 
-- 3.2. Remain affiliated with the Union.
+- 3.2. Remain affiliated with ActivateUTS.
 
 - 3.3. Subscribe to, become a member of, amalgamate and/or co-operate with any other organisation(s) whose objects are altogether or in part similar to those of the Society.
 
@@ -43,7 +43,7 @@ The following terms, unless otherwise indicated to the contrary shall mean:
 
 ### 4.1. Membership
 
-Membership shall be open to all Union members, and to all other persons satisfying the requirements of membership as may be determined by the Executive Committee from time to time.
+Membership shall be open to all UTS students, staff, and alumni; and to all other persons satisfying the requirements of membership as may be determined by the Executive Committee from time to time.
 
 ### 4.2. Conditions of Membership
 
@@ -67,9 +67,9 @@ Membership shall be open to all Union members, and to all other persons satisfyi
 
 - 4.3.4. Should the subject member be a member also of the Executive Committee, their place on the Executive Committee shall be taken at the direction of the President or Vice-President, by a General Committee member, elected by the remaining members of the Executive Committee for the duration of that discussion of this rule. Persons expelled from the Society under this rule will be given the option of resigning.
 
-- 4.3.5. The Subject member shall have the right of appeal against the action of the Executive Committee. Such an appeal shall be made in writing to the Secretary and must be lodged within fourteen (14) days of receiving written notification of the Committee's decision. The lodging of an appeal will suspend the committee decision until the matter is considered by the Union.
+- 4.3.5. The Subject member shall have the right of appeal against the action of the Executive Committee. Such an appeal shall be made in writing to the Secretary and must be lodged within fourteen (14) days of receiving written notification of the Committee's decision. The lodging of an appeal will suspend the committee decision until the matter is considered by ActivateUTS.
 
-- 4.3.6. The Union has the power to mediate and make the final resolution. The resolution is confirmed and effective from the date of confirmation.
+- 4.3.6. ActivateUTS has the power to mediate and make the final resolution. The resolution is confirmed and effective from the date of confirmation.
 
 ### 4.4. Disqualification
 
@@ -131,7 +131,7 @@ No member may be elected to any position on the Executive Committee who has not 
 
 ### 5.6. Security
 
-All members holding access privileges to the Society room shall make all reasonable efforts to maintain the security of the room.
+All members holding access privileges to physical and digital Society spaces (including, but not limited to: the room, website, mailing list, or chat server) shall make all reasonable efforts to maintain the security of such spaces.
 
 ### 5.7. General Committee Officers
 
@@ -149,7 +149,7 @@ The President, Vice-President, Secretary and Treasurer of the Society for the ti
 
 ### 6.3. Bank Account
 
-The Trustees shall open and maintain a bank account in the name of and on behalf of the Society.
+The Trustees shall maintain a bank account in the name of and on behalf of the Society.
 
 ### 6.4. Withdrawals and Account Signatories
 
@@ -167,7 +167,7 @@ In the absence of both the President and the Vice-President, the Committee membe
 
 ### 7.2. Annual General Meetings
 
-- 7.2.1. The Annual General Meeting shall be held in the month of October each year.
+- 7.2.1. The Annual General Meeting shall be held in either September or October of each year.
 
 - 7.2.2. The quorum at Annual General Meeting shall be fifty percent (50%) of members entitled to vote or fourteen (14) members entitled to vote whichever is lesser.
 
@@ -201,9 +201,9 @@ This constitution may be repealed, altered or amended only by the affirmative vo
 
 Notice of motions concerning any such amendments shall be lodged with the Secretary at least twenty-one (21) days prior to the date of such meeting and at least seven (7) days notice shall be given of such proposed amendments to every member.
 
-### 8.3. Lodging of Amendments with the Union
+### 8.3. Lodging of Amendments with ActivateUTS
 
-Details of any amendment that has been duly approved by the members shall be given to the Secretary of the Union within seven (7) days of such amendment being adopted.
+Details of any amendment that has been duly approved by the members shall be submitted as appropriate to ActivateUTS within seven (7) days of such amendment being adopted.
 
 ## 9. DISSOLUTION
 
