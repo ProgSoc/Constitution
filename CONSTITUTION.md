@@ -23,11 +23,11 @@ The Society shall be named "Programmers' Society".
 
 The following terms, unless otherwise indicated to the contrary shall mean:
 
-- Society: Programmers' Society.
+- Society: [Programmers' Society](https://progsoc.org).
 
-- University, UTS: The University of Technology Sydney.
+- University, UTS: [The University of Technology Sydney](https://www.uts.edu.au/).
 
-- ActivateUTS: The UTS clubs body (formerly known as UTS Union).
+- ActivateUTS: [The UTS clubs body (formerly known as UTS Union)](https://www.activateuts.com.au).
 
 ## 3. OBJECTS
 
@@ -59,7 +59,7 @@ Membership shall be open to all UTS students, staff, and alumni; and to all othe
 
 ### 4.3. Disciplinary Action
 
-The disciplining of club executives, members, and relevant UTS personnel will be investigated, handled, and processed by ActivateUTS in line with the ActivateUTS Clubs Code of Conduct.
+The disciplining of club executives, members, and relevant UTS personnel will be investigated, handled, and processed by ActivateUTS in line with the [ActivateUTS Clubs Code of Conduct](https://www.activateuts.com.au/terms-conditions/club-code-of-conduct/).
 
 ### 4.4. Disqualification
 
@@ -211,7 +211,7 @@ Dissolution of the Society shall take place only if such a decision is reached b
 
 ### 10.1. ActivateUTS Club Affiliation Agreement
 
-In order to fulfil the object of remaining affiliated with ActivateUTS, the ActivateUTS Club Affiliation Agreement shall supersede any inconsistencies with this constitution to the extent of the inconsistency.
+In order to fulfil the object of remaining affiliated with ActivateUTS, the [ActivateUTS Club Affiliation Agreement](https://drive.google.com/file/d/1ck5hEPTbXYtJyoq3LwlXGa0Aju5HgRLg/view) shall supersede any inconsistencies with this constitution to the extent of the inconsistency.
 
 ### 10.2. Executive Committee Ruling
 
