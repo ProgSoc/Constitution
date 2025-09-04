@@ -2,18 +2,18 @@
 
 ***Constitution of the Programmers' Society***
 
-Effective on and from the 16th March 1989
+Effective on and from the [16th March 1989](https://github.com/ProgSoc/Constitution/blob/c461ac3d15c199e17d22dd6c6d018cd866d0b0a8/CONSTITUTION.md)
 
-- Amended 8th August 1996
-- Amended 23rd February 2001
-- Amended 7th April 2005
-- Amended 31st March 2011
-- Amended 28th March 2013
-- Amended 12th March 2015
-- Amended 25th October 2018
-- Amended 29th October 2019
-- Amended 22nd October 2022
-- Amended 12th October 2024
+- Amended [8th August 1996](https://github.com/ProgSoc/Constitution/compare/c461ac3d15c199e17d22dd6c6d018cd866d0b0a8..1c24ba129adeb63461a2e42db107cf1f862abe44?diff=unified&w)
+- Amended [23rd February 2001](https://github.com/ProgSoc/Constitution/compare/1c24ba129adeb63461a2e42db107cf1f862abe44..654fdc038edad0bb8a6c2dc1d1428bf8c3721df8?diff=unified&w)
+- Amended [7th April 2005](https://github.com/ProgSoc/Constitution/compare/654fdc038edad0bb8a6c2dc1d1428bf8c3721df8..f6a66fe582d102bfde24324c28c345652d30873b?diff=unified&w)
+- Amended [31st March 2011](https://github.com/ProgSoc/Constitution/compare/f6a66fe582d102bfde24324c28c345652d30873b..238b7bc70bb33f9958d70a80e778591aa1a212bc?diff=unified&w)
+- Amended [28th March 2013](https://github.com/ProgSoc/Constitution/compare/238b7bc70bb33f9958d70a80e778591aa1a212bc..40e11436f46edb826ca459cd994d4a97653f1adf?diff=unified&w)
+- Amended [12th March 2015](https://github.com/ProgSoc/Constitution/compare/40e11436f46edb826ca459cd994d4a97653f1adf..a0b2c2606e76479ea03c19139bdfe1f2f252ad76?diff=unified&w)
+- Amended [25th October 2018](https://github.com/ProgSoc/Constitution/compare/a0b2c2606e76479ea03c19139bdfe1f2f252ad76..427b5b1dc241aa0b84cdb08ba4a1e96f3b7760d9?diff=unified&w)
+- Amended [29th October 2019](https://github.com/ProgSoc/Constitution/compare/427b5b1dc241aa0b84cdb08ba4a1e96f3b7760d9..1ad5a5927b0cea55d5bd81341fa9661d4a2bd588?diff=unified&w)
+- Amended [22nd October 2022](https://github.com/ProgSoc/Constitution/compare/98e71cdbfcc98ea8524ef73a3f9bb24e37e31224..6c1df302b4ca5398d279c1580664a458d3858f66?diff=unified&w)
+- Amended [12th October 2024](https://github.com/ProgSoc/Constitution/compare/df2ff3ad67f27584130c66b58e716229da30596c..2f1d16106200106f2dbf3b875dc2b93d5f724ea6?diff=unified&w)
 
 ## 1. NAME
 
