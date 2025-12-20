@@ -119,6 +119,8 @@ No member may be elected to any position on the Executive Committee who has not 
 
 - 5.5.6. Marketing Director. The Marketing Director shall manage and moderate all Society social media platforms, and shall provide and distribute Society marketing material.
 
+- 5.5.9. Sponsorships Manager. The Sponsorships Manager shall serve as one of the main points of contact with external sponsors, liaising with prospective and existing sponsors to ensure alignment between internal Society initiatives and external sponsorship requirements.
+
 ### 5.6. Security
 
 All members holding access privileges to physical and digital Society spaces (including, but not limited to: the room, website, mailing list, or chat server) shall make all reasonable efforts to maintain the security of such spaces.
