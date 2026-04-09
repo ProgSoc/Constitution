@@ -14,6 +14,7 @@ Effective on and from the [16th March 1989](https://github.com/ProgSoc/Constitut
 - Amended [29th October 2019](https://github.com/ProgSoc/Constitution/compare/427b5b1dc241aa0b84cdb08ba4a1e96f3b7760d9..1ad5a5927b0cea55d5bd81341fa9661d4a2bd588?diff=unified&w)
 - Amended [22nd October 2022](https://github.com/ProgSoc/Constitution/compare/98e71cdbfcc98ea8524ef73a3f9bb24e37e31224..6c1df302b4ca5398d279c1580664a458d3858f66?diff=unified&w)
 - Amended [12th October 2024](https://github.com/ProgSoc/Constitution/compare/df2ff3ad67f27584130c66b58e716229da30596c..2f1d16106200106f2dbf3b875dc2b93d5f724ea6?diff=unified&w)
+- Amended [22nd February 2026](https://github.com/ProgSoc/Constitution/compare/efb5664ae82ae3d45c41e78b1f16e4aff94e366f...ba4407be37e82f09470bd92e0d593d4d04444e0e?diff=unified&w)
 
 ## 1. NAME
 
