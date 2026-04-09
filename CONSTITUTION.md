@@ -73,7 +73,7 @@ A member's resignation shall be not considered effective unless it is made in wr
 
 ### 5.1. The Executive Committee shall:
 
-- 5.1.1. Consist of a President, a Vice-President, a Secretary, a Treasurer, at least one Events Coordinator, and a Marketing Director.
+- 5.1.1. Consist of a President, a Vice-President, a Secretary, a Treasurer, at least one Events Coordinator, at least one Marketing Director, an optional Social Media Manager, zero or more Project Directors, and an optional Sponsorships Manager.
 
 - 5.1.2. Manage the affairs of the Society in accordance with this constitution and subject to the decisions of a General Meeting.
 
