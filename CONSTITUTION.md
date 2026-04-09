@@ -119,6 +119,8 @@ No member may be elected to any position on the Executive Committee who has not 
 
 - 5.5.6. Marketing Directors. The Marketing Directors shall create and manage all promotional material pertaining to the Society, including but not limited to graphics, logos, motifs, themes and videos.
 
+- 5.5.7. Social Media Manager. The Social Media Manager shall manage and moderate all Society social media platforms, as well as disseminate all promotional material pertaining to the Society via social media platforms.
+
 ### 5.6. Security
 
 All members holding access privileges to physical and digital Society spaces (including, but not limited to: the room, website, mailing list, or chat server) shall make all reasonable efforts to maintain the security of such spaces.
