@@ -482,24 +482,24 @@ Effective on and from the [16th March 1989](https://github.com/ProgSoc/Constitut
 
         - 7.5.2.1.3. All ActivateUTS Event application, risk, and reporting requirements which shall be submitted within the required timeframes.
 
-    - 7.5.2.2. The Events Executive (Social) shall have primary oversight of:
+    - 7.5.2.2. The Events Executive (Workshops) shall have primary oversight of:
 
-        - 7.5.2.2.1. The themes and activities of the Society's social
+        - 7.5.2.2.1. Maintaining alignment between the topics of workshop events with the objectives of the Club.
+
+        - 7.5.2.2.2. Ensuring attendees of the Society's workshop events positively benefit from the workshops by gaining expertise in the workshop's designated topics.
+
+        - 7.5.2.2.3. The dissemination of workshop-related content to event attendees and Society members.
+
+    - 7.5.2.3. The Events Executive (Social) shall have primary oversight of:
+
+        - 7.5.2.3.1. The themes and activities of the Society's social
             events.
 
-        - 7.5.2.2.2. Alignment of the activities within social events with
+        - 7.5.2.3.2. Alignment of the activities within social events with
             the objectives of the Society.
 
-        - 7.5.2.2.3. Ensuring attendees of social events positively benefit
+        - 7.5.2.3.3. Ensuring attendees of social events positively benefit
             from social interaction with one another.
-
-    - 7.5.2.3. The Events Executive (Workshops) shall have primary oversight of:
-
-        - 7.5.2.3.1. Maintaining alignment between the topics of workshop events with the objectives of the Club.
-
-        - 7.5.2.3.2. Ensuring attendees of the Society's workshop events positively benefit from the workshops by gaining expertise in the workshop's designated topics.
-
-        - 7.5.2.3.3. The dissemination of workshop-related content to event attendees and Society members.
 
 ### 7.6. Marketing Executive(s) Duties:
 
@@ -545,7 +545,7 @@ Effective on and from the [16th March 1989](https://github.com/ProgSoc/Constitut
 
         - 7.7.1.2.3. Monitoring of the curated hardware and developed software to ensure they work as intended when deployed during Society events.
 
-    - 7.7.1.3. The Technical Executive (Projects) shall have primary oversight of:
+    - 7.7.1.3. The Projects Executive shall have primary oversight of:
 
         - 7.7.1.3.1. The collaborative development of software repositories owned by the Society.
 
