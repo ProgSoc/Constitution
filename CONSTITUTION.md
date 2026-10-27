@@ -15,6 +15,7 @@ Effective on and from the [16th March 1989](https://github.com/ProgSoc/Constitut
 - Amended [22nd October 2022](https://github.com/ProgSoc/Constitution/compare/98e71cdbfcc98ea8524ef73a3f9bb24e37e31224..6c1df302b4ca5398d279c1580664a458d3858f66?diff=unified&w)
 - Amended [12th October 2024](https://github.com/ProgSoc/Constitution/compare/df2ff3ad67f27584130c66b58e716229da30596c..2f1d16106200106f2dbf3b875dc2b93d5f724ea6?diff=unified&w)
 - Amended [22nd February 2026](https://github.com/ProgSoc/Constitution/compare/efb5664ae82ae3d45c41e78b1f16e4aff94e366f...ba4407be37e82f09470bd92e0d593d4d04444e0e?diff=unified&w)
+- Amended [26th October 2026](https://github.com/ProgSoc/Constitution/compare/8bf6b444c319449fc55a81a521df32bb25ae12eb...e1f3e32a970243165a1a27cdc35b3a6592b9a5b2?diff=unified&w)
 
 ## 1. Preamble
 
